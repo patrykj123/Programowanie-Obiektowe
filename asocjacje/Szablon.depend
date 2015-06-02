@@ -1,0 +1,1320 @@
+# depslib dependency file v1.0
+1396348870 source:c:\settings\student\pulpit\szablon02\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1396348924 c:\settings\student\pulpit\szablon02\utils.h
+	<windows.h>
+
+1425398836 source:c:\settings\student\pulpit\szablon02\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\szablon02\msghandlers.h
+	<windows.h>
+
+1425986101 source:c:\settings\student\pulpit\szablon02\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<cstdio>
+
+1396348870 source:c:\settings\student\pulpit\szablon03\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1396348924 c:\settings\student\pulpit\szablon03\utils.h
+	<windows.h>
+
+1425398836 source:c:\settings\student\pulpit\szablon03\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\szablon03\msghandlers.h
+	<windows.h>
+
+1426592455 source:c:\settings\student\pulpit\szablon03\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<cstdio>
+
+1396348870 source:c:\settings\student\pulpit\szablon04\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1396348924 c:\settings\student\pulpit\szablon04\utils.h
+	<windows.h>
+
+1425398836 source:c:\settings\student\pulpit\szablon04\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\szablon04\msghandlers.h
+	<windows.h>
+
+1396348870 source:c:\settings\student\pulpit\zajecia04d\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1396348924 c:\settings\student\pulpit\zajecia04d\utils.h
+	<windows.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia04d\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\zajecia04d\msghandlers.h
+	<windows.h>
+
+1427194232 source:c:\settings\student\pulpit\zajecia04d\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<cstdio>
+
+1427798114 source:c:\settings\student\pulpit\zajecia05d\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<cstdio>
+	"CRectangle.h"
+
+1363774998 c:\settings\student\pulpit\zajecia05d\msghandlers.h
+	<windows.h>
+
+1396348924 c:\settings\student\pulpit\zajecia05d\utils.h
+	<windows.h>
+
+1427198158 c:\settings\student\pulpit\zajecia05d\crectangle.h
+	<windows.h>
+
+1396348870 source:c:\settings\student\pulpit\zajecia05d\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia05d\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1427796350 source:c:\settings\student\pulpit\zajecia05d\crectangle.cpp
+	"CRectangle.h"
+
+1427798724 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia05d\crectangle.cpp
+	"CRectangle.h"
+
+1427198158 c:\users\pkocyan\documents\temp\pwr-letni\zajecia05d\crectangle.h
+	<windows.h>
+
+1425398836 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia05d\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\users\pkocyan\documents\temp\pwr-letni\zajecia05d\msghandlers.h
+	<windows.h>
+
+1396348870 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia05d\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1396348924 c:\users\pkocyan\documents\temp\pwr-letni\zajecia05d\utils.h
+	<windows.h>
+
+1427798724 source:c:\settings\student\pulpit\zajecia06a\crectangle.cpp
+	"CRectangle.h"
+
+1427198158 c:\settings\student\pulpit\zajecia06a\crectangle.h
+	<windows.h>
+
+1427878551 source:c:\settings\student\pulpit\zajecia06a\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CTriangle.h"
+
+1363774998 c:\settings\student\pulpit\zajecia06a\msghandlers.h
+	<windows.h>
+
+1396348924 c:\settings\student\pulpit\zajecia06a\utils.h
+	<windows.h>
+
+1427873756 c:\settings\student\pulpit\zajecia06a\cellipse.h
+	<windows.h>
+
+1396348870 source:c:\settings\student\pulpit\zajecia06a\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia06a\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1427873756 source:c:\settings\student\pulpit\zajecia06a\cellipse.cpp
+	"CEllipse.h"
+
+1427878064 source:c:\settings\student\pulpit\zajecia06a\ctriangle.cpp
+	"CTriangle.h"
+
+1427877491 c:\settings\student\pulpit\zajecia06a\ctriangle.h
+	<windows.h>
+
+1429610958 source:c:\settings\student\pulpit\zajecia07d\cfilledshape.cpp
+	"CFilledShape.h"
+
+1429610958 c:\settings\student\pulpit\zajecia07d\cfilledshape.h
+	<windows.h>
+
+1429610958 source:c:\settings\student\pulpit\zajecia07d\crectangle.cpp
+	"CRectangle.h"
+
+1429610958 c:\settings\student\pulpit\zajecia07d\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429610958 source:c:\settings\student\pulpit\zajecia07d\ctriangle.cpp
+	"CTriangle.h"
+
+1429610958 c:\settings\student\pulpit\zajecia07d\ctriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429612312 source:c:\settings\student\pulpit\zajecia07d\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CTriangle.h"
+
+1363774998 c:\settings\student\pulpit\zajecia07d\msghandlers.h
+	<windows.h>
+
+1396348924 c:\settings\student\pulpit\zajecia07d\utils.h
+	<windows.h>
+
+1429610958 c:\settings\student\pulpit\zajecia07d\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1396348870 source:c:\settings\student\pulpit\zajecia07d\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia07d\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1429610958 source:c:\settings\student\pulpit\zajecia07d\cellipse.cpp
+	"CEllipse.h"
+
+1429610958 source:c:\settings\student\pulpit\szablon08\cfilledshape.cpp
+	"CFilledShape.h"
+
+1429610958 c:\settings\student\pulpit\szablon08\cfilledshape.h
+	<windows.h>
+
+1429687472 source:c:\settings\student\pulpit\szablon08\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CTriangle.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRegularTriangle.h"
+
+1363774998 c:\settings\student\pulpit\szablon08\msghandlers.h
+	<windows.h>
+
+1396348924 c:\settings\student\pulpit\szablon08\utils.h
+	<windows.h>
+
+1429610958 c:\settings\student\pulpit\szablon08\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429610958 c:\settings\student\pulpit\szablon08\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429610958 c:\settings\student\pulpit\szablon08\ctriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1396348870 source:c:\settings\student\pulpit\szablon08\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\szablon08\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1429687359 source:c:\settings\student\pulpit\szablon08\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1429687359 c:\settings\student\pulpit\szablon08\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1429687359 source:c:\settings\student\pulpit\szablon08\cellipse.cpp
+	"CEllipse.h"
+
+1429687359 source:c:\settings\student\pulpit\szablon08\crectangle.cpp
+	"CRectangle.h"
+
+1429687359 source:c:\settings\student\pulpit\szablon08\cregulartriangle.cpp
+	"CRegularTriangle.h"
+	<math.h>
+
+1429687359 c:\settings\student\pulpit\szablon08\cregulartriangle.h
+	<windows.h>
+	"Utils.h"
+	"CTriangle.h"
+
+1429687359 source:c:\settings\student\pulpit\szablon08\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1429687359 c:\settings\student\pulpit\szablon08\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1429687359 source:c:\settings\student\pulpit\szablon08\ctriangle.cpp
+	"CTriangle.h"
+
+1429692047 source:c:\settings\student\pulpit\zajecia08a\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1429692047 c:\settings\student\pulpit\zajecia08a\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\zajecia08a\utils.h
+	<windows.h>
+
+1429610958 c:\settings\student\pulpit\zajecia08a\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429692047 c:\settings\student\pulpit\zajecia08a\cfilledshape.h
+	<windows.h>
+
+1429687359 source:c:\settings\student\pulpit\zajecia08a\cellipse.cpp
+	"CEllipse.h"
+
+1429687359 source:c:\settings\student\pulpit\zajecia08a\crectangle.cpp
+	"CRectangle.h"
+
+1429610958 c:\settings\student\pulpit\zajecia08a\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429692047 source:c:\settings\student\pulpit\zajecia08a\cregulartriangle.cpp
+	"CRegularTriangle.h"
+	<math.h>
+
+1429692047 c:\settings\student\pulpit\zajecia08a\cregulartriangle.h
+	<windows.h>
+	"Utils.h"
+	"CTriangle.h"
+
+1429692047 c:\settings\student\pulpit\zajecia08a\ctriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1429692047 source:c:\settings\student\pulpit\zajecia08a\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1429692047 c:\settings\student\pulpit\zajecia08a\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1429691572 source:c:\settings\student\pulpit\zajecia08a\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CTriangle.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRegularTriangle.h"
+
+1363774998 c:\settings\student\pulpit\zajecia08a\msghandlers.h
+	<windows.h>
+
+1396348870 source:c:\settings\student\pulpit\zajecia08a\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia08a\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1429692047 source:c:\settings\student\pulpit\zajecia08a\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+
+1429692047 source:c:\settings\student\pulpit\zajecia08a\ctriangle.cpp
+	"CTriangle.h"
+
+1430147111 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\cellipse.cpp
+	"CEllipse.h"
+
+1429610958 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430146851 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\cfilledshape.h
+	<windows.h>
+
+1430147111 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\crectangle.cpp
+	"CRectangle.h"
+
+1429610958 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147111 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\ctriangle.cpp
+	"CTriangle.h"
+
+1430145619 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\ctriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1425398836 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\msghandlers.h
+	<windows.h>
+
+1430144651 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CTriangle.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRegularTriangle.h"
+
+1396348924 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\utils.h
+	<windows.h>
+
+1430146750 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1430146750 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1430146750 c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\cregulartriangle.h
+	<windows.h>
+	"Utils.h"
+	"CTriangle.h"
+
+1396348870 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1430146750 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430146771 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+
+1430146750 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\cregulartriangle.cpp
+	"CRegularTriangle.h"
+	<math.h>
+
+1430146750 source:c:\users\pkocyan\documents\temp\pwr-letni\zajecia08ab\szablon09\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430303446 source:c:\settings\student\pulpit\szablon09\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1430303449 c:\settings\student\pulpit\szablon09\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430149454 c:\settings\student\pulpit\szablon09\cfilledshape.h
+	<windows.h>
+
+1430146752 source:c:\settings\student\pulpit\szablon09\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\szablon09\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\szablon09\utils.h
+	<windows.h>
+
+1430149446 c:\settings\student\pulpit\szablon09\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147112 source:c:\settings\student\pulpit\szablon09\cellipse.cpp
+	"CEllipse.h"
+
+1430303665 source:c:\settings\student\pulpit\szablon09\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1430303667 c:\settings\student\pulpit\szablon09\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1430303437 c:\settings\student\pulpit\szablon09\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1430293947 source:c:\settings\student\pulpit\szablon09\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+
+1430303435 source:c:\settings\student\pulpit\szablon09\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1430294335 source:c:\settings\student\pulpit\szablon09\crectangle.cpp
+	"CRectangle.h"
+
+1430149446 c:\settings\student\pulpit\szablon09\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430303555 source:c:\settings\student\pulpit\szablon09\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1430303556 c:\settings\student\pulpit\szablon09\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1430146752 source:c:\settings\student\pulpit\szablon09\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\szablon09\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1430303881 source:c:\settings\student\pulpit\szablon09\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+
+1363774998 c:\settings\student\pulpit\szablon09\msghandlers.h
+	<windows.h>
+
+1396348870 source:c:\settings\student\pulpit\szablon09\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\szablon09\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1430303448 source:c:\settings\student\pulpit\zajecia10a\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1430816990 c:\settings\student\pulpit\zajecia10a\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430149454 c:\settings\student\pulpit\zajecia10a\cfilledshape.h
+	<windows.h>
+
+1430146752 source:c:\settings\student\pulpit\zajecia10a\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia10a\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\zajecia10a\utils.h
+	<windows.h>
+
+1430149446 c:\settings\student\pulpit\zajecia10a\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147112 source:c:\settings\student\pulpit\zajecia10a\cellipse.cpp
+	"CEllipse.h"
+
+1430303666 source:c:\settings\student\pulpit\zajecia10a\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1430303668 c:\settings\student\pulpit\zajecia10a\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1430816991 c:\settings\student\pulpit\zajecia10a\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1430821180 source:c:\settings\student\pulpit\zajecia10a\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+
+1430303436 source:c:\settings\student\pulpit\zajecia10a\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1430294336 source:c:\settings\student\pulpit\zajecia10a\crectangle.cpp
+	"CRectangle.h"
+
+1430149446 c:\settings\student\pulpit\zajecia10a\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430303556 source:c:\settings\student\pulpit\zajecia10a\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1430820225 c:\settings\student\pulpit\zajecia10a\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1430146752 source:c:\settings\student\pulpit\zajecia10a\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia10a\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1430821528 source:c:\settings\student\pulpit\zajecia10a\ctriangle.cpp
+	"CTriangle.h"
+
+1430821527 c:\settings\student\pulpit\zajecia10a\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1396348870 source:c:\settings\student\pulpit\zajecia10a\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia10a\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\zajecia10a\msghandlers.h
+	<windows.h>
+
+1430821600 source:c:\settings\student\pulpit\zajecia10a\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+	"CTriangle.h"
+
+1430303448 source:c:\settings\student\pulpit\zajecia10ab\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia10ab\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430149454 c:\settings\student\pulpit\zajecia10ab\cfilledshape.h
+	<windows.h>
+
+1430146752 source:c:\settings\student\pulpit\zajecia10ab\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia10ab\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\zajecia10ab\utils.h
+	<windows.h>
+
+1430149446 c:\settings\student\pulpit\zajecia10ab\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147112 source:c:\settings\student\pulpit\zajecia10ab\cellipse.cpp
+	"CEllipse.h"
+
+1430303666 source:c:\settings\student\pulpit\zajecia10ab\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1430303668 c:\settings\student\pulpit\zajecia10ab\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia10ab\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1430821182 source:c:\settings\student\pulpit\zajecia10ab\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+
+1430303436 source:c:\settings\student\pulpit\zajecia10ab\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1430294336 source:c:\settings\student\pulpit\zajecia10ab\crectangle.cpp
+	"CRectangle.h"
+
+1430149446 c:\settings\student\pulpit\zajecia10ab\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430303556 source:c:\settings\student\pulpit\zajecia10ab\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1430820226 c:\settings\student\pulpit\zajecia10ab\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1430146752 source:c:\settings\student\pulpit\zajecia10ab\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia10ab\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1430821530 source:c:\settings\student\pulpit\zajecia10ab\ctriangle.cpp
+	"CTriangle.h"
+
+1430821528 c:\settings\student\pulpit\zajecia10ab\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1396348870 source:c:\settings\student\pulpit\zajecia10ab\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia10ab\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\zajecia10ab\msghandlers.h
+	<windows.h>
+
+1430303448 source:c:\settings\student\pulpit\zajecia10cd\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia10cd\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430149454 c:\settings\student\pulpit\zajecia10cd\cfilledshape.h
+	<windows.h>
+
+1430146752 source:c:\settings\student\pulpit\zajecia10cd\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia10cd\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\zajecia10cd\utils.h
+	<windows.h>
+
+1430149446 c:\settings\student\pulpit\zajecia10cd\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147112 source:c:\settings\student\pulpit\zajecia10cd\cellipse.cpp
+	"CEllipse.h"
+
+1430303666 source:c:\settings\student\pulpit\zajecia10cd\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1430303668 c:\settings\student\pulpit\zajecia10cd\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia10cd\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1430821182 source:c:\settings\student\pulpit\zajecia10cd\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+
+1430303436 source:c:\settings\student\pulpit\zajecia10cd\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1430294336 source:c:\settings\student\pulpit\zajecia10cd\crectangle.cpp
+	"CRectangle.h"
+
+1430149446 c:\settings\student\pulpit\zajecia10cd\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430303556 source:c:\settings\student\pulpit\zajecia10cd\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1430820226 c:\settings\student\pulpit\zajecia10cd\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1430146752 source:c:\settings\student\pulpit\zajecia10cd\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia10cd\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1396348870 source:c:\settings\student\pulpit\zajecia10cd\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia10cd\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\zajecia10cd\msghandlers.h
+	<windows.h>
+
+1431414737 source:c:\settings\student\pulpit\zajecia10cd\ctriangle.cpp
+	"CTriangle.h"
+
+1431414737 c:\settings\student\pulpit\zajecia10cd\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1430907582 source:c:\settings\student\pulpit\zajecia10cd\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+	"CTriangle.h"
+
+1430303448 source:c:\settings\student\pulpit\zajecia11b\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia11b\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1431427599 c:\settings\student\pulpit\zajecia11b\cfilledshape.h
+	<windows.h>
+	"CShape.h"
+
+1431427599 c:\settings\student\pulpit\zajecia11b\cshape.h
+	<windows.h>
+
+1430146752 source:c:\settings\student\pulpit\zajecia11b\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia11b\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\zajecia11b\utils.h
+	<windows.h>
+
+1430149446 c:\settings\student\pulpit\zajecia11b\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147112 source:c:\settings\student\pulpit\zajecia11b\cellipse.cpp
+	"CEllipse.h"
+
+1430303666 source:c:\settings\student\pulpit\zajecia11b\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1430303668 c:\settings\student\pulpit\zajecia11b\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia11b\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1430303436 source:c:\settings\student\pulpit\zajecia11b\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1430294336 source:c:\settings\student\pulpit\zajecia11b\crectangle.cpp
+	"CRectangle.h"
+
+1430149446 c:\settings\student\pulpit\zajecia11b\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430303556 source:c:\settings\student\pulpit\zajecia11b\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1430820226 c:\settings\student\pulpit\zajecia11b\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1430146752 source:c:\settings\student\pulpit\zajecia11b\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia11b\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1396348870 source:c:\settings\student\pulpit\zajecia11b\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia11b\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1363774998 c:\settings\student\pulpit\zajecia11b\msghandlers.h
+	<windows.h>
+
+1431427683 source:c:\settings\student\pulpit\zajecia11b\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+	<math.h>
+
+1431427599 source:c:\settings\student\pulpit\zajecia11b\cshape.cpp
+	"CShape.h"
+	"Utils.h"
+	<math.h>
+
+1431427599 source:c:\settings\student\pulpit\zajecia11b\ctriangle.cpp
+	"CTriangle.h"
+	"Utils.h"
+	<math.h>
+
+1431427599 c:\settings\student\pulpit\zajecia11b\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1430303448 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia11ab\zajecia11b\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1431427600 c:\settings\student\pulpit\zajecia11ab\zajecia11b\cfilledshape.h
+	<windows.h>
+	"CShape.h"
+
+1431427600 c:\settings\student\pulpit\zajecia11ab\zajecia11b\cshape.h
+	<windows.h>
+
+1430146752 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia11ab\zajecia11b\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1396348924 c:\settings\student\pulpit\zajecia11ab\zajecia11b\utils.h
+	<windows.h>
+
+1430149446 c:\settings\student\pulpit\zajecia11ab\zajecia11b\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430147112 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\cellipse.cpp
+	"CEllipse.h"
+
+1430303666 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1430303668 c:\settings\student\pulpit\zajecia11ab\zajecia11b\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1430816992 c:\settings\student\pulpit\zajecia11ab\zajecia11b\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1431427684 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+	<math.h>
+
+1430303436 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1430294336 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\crectangle.cpp
+	"CRectangle.h"
+
+1430149446 c:\settings\student\pulpit\zajecia11ab\zajecia11b\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1430303556 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1430820226 c:\settings\student\pulpit\zajecia11ab\zajecia11b\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1431427600 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\cshape.cpp
+	"CShape.h"
+	"Utils.h"
+	<math.h>
+
+1430146752 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1430149844 c:\settings\student\pulpit\zajecia11ab\zajecia11b\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1431427600 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\ctriangle.cpp
+	"CTriangle.h"
+	"Utils.h"
+	<math.h>
+
+1431427600 c:\settings\student\pulpit\zajecia11ab\zajecia11b\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1431428050 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+	"CTriangle.h"
+
+1363774998 c:\settings\student\pulpit\zajecia11ab\zajecia11b\msghandlers.h
+	<windows.h>
+
+1396348870 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1425398836 source:c:\settings\student\pulpit\zajecia11ab\zajecia11b\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cfilledshape.h
+	<windows.h>
+	"CShape.h"
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cshape.h
+	<windows.h>
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1432115609 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\utils.h
+	<windows.h>
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cellipse.cpp
+	"CEllipse.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+	<math.h>
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\crectangle.cpp
+	"CRectangle.h"
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1432115608 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\cshape.cpp
+	"CShape.h"
+	"Utils.h"
+	<math.h>
+
+1432115608 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1432115609 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1432115609 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\ctriangle.cpp
+	"CTriangle.h"
+	"Utils.h"
+	<math.h>
+
+1432115609 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1432118174 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+	"CTriangle.h"
+	"CSomething.h"
+
+1432115609 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\msghandlers.h
+	<windows.h>
+
+1432115609 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1432115609 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1432118292 source:c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\csomething.cpp
+	<cstdlib>
+	<iostream>
+	"CSomething.h"
+
+1432118292 c:\settings\student\moje dokumenty\pobieranie\szablon12\szablon12\csomething.h
+	"CShape.h"
+	"CSquare.h"
+	"CCircle.h"
+	"CEquilateralTriangle.h"
+
+1432119208 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\cfilledshape.h
+	<windows.h>
+	"CShape.h"
+
+1432377363 c:\users\patryk\documents\programowanie\zadanie12\szablon12\cshape.h
+	<windows.h>
+
+1432382887 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1432119209 c:\users\patryk\documents\programowanie\zadanie12\szablon12\utils.h
+	<windows.h>
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1432119208 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\cellipse.cpp
+	"CEllipse.h"
+
+1432378685 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1432299439 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+	<math.h>
+
+1432119208 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1432119208 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\crectangle.cpp
+	"CRectangle.h"
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1432119208 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1432119208 c:\users\patryk\documents\programowanie\zadanie12\szablon12\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1432382198 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\cshape.cpp
+	"CShape.h"
+	"Utils.h"
+	<math.h>
+	<time.h>
+
+1432396907 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\csomething.cpp
+	<cstdlib>
+	<iostream>
+	"CSomething.h"
+
+1432383350 c:\users\patryk\documents\programowanie\zadanie12\szablon12\csomething.h
+	"CShape.h"
+	"CSquare.h"
+	"CCircle.h"
+	"CEquilateralTriangle.h"
+
+1432119209 c:\users\patryk\documents\programowanie\zadanie12\szablon12\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1432119208 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1432119209 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\ctriangle.cpp
+	"CTriangle.h"
+	"Utils.h"
+	<math.h>
+
+1432119209 c:\users\patryk\documents\programowanie\zadanie12\szablon12\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1432119209 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1432119209 c:\users\patryk\documents\programowanie\zadanie12\szablon12\msghandlers.h
+	<windows.h>
+
+1432119209 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1432397067 source:c:\users\patryk\documents\programowanie\zadanie12\szablon12\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+	"CFilledShape.h"
+	"CShape.h"
+	"CTriangle.h"
+	"CSomething.h"
+
