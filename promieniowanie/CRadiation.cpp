@@ -43,6 +43,11 @@ void CRadiation::afterBoundingRectChange()
     tmpRect.top += height * 0.06;
     tmpRect.bottom -= height * 0.06;
     mCircles[4].setBoundingRect(tmpRect);
+
+    tmpRect.left += width * 0.06;
+    tmpRect.right -= width * 0.06;
+    tmpRect.top += height * 0.06;
+    tmpRect.bottom -= height * 0.06;
 }
 
 void CRadiation::Paint(HDC hdc)

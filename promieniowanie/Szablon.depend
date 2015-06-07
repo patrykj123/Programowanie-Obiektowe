@@ -2045,3 +2045,156 @@
 	"Utils.h"
 	<math.h>
 
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cabstracttriangle.cpp
+	"CAbstractTriangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cabstracttriangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cfilledshape.h
+	<windows.h>
+	"CShape.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cshape.h
+	<windows.h>
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\ccircle.cpp
+	"CCircle.h"
+	<math.h>
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\ccircle.h
+	<windows.h>
+	"Utils.h"
+	"CEllipse.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\utils.h
+	<windows.h>
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cellipse.h
+	<windows.h>
+	"CFilledShape.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cellipse.cpp
+	"CEllipse.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cequilateraltriangle.cpp
+	"CEquilateralTriangle.h"
+	<math.h>
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cequilateraltriangle.h
+	"CIsoscelesTriangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cisoscelestriangle.h
+	"CAbstractTriangle.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cfilledshape.cpp
+	"CFilledShape.h"
+	"Utils.h"
+	<math.h>
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cisoscelestriangle.cpp
+	"CIsoscelesTriangle.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\crectangle.cpp
+	"CRectangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\crectangle.h
+	<windows.h>
+	"CFilledShape.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\crighttriangle.cpp
+	"CRightTriangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\crighttriangle.h
+	"CAbstractTriangle.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cshape.cpp
+	"CShape.h"
+	"Utils.h"
+	<math.h>
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\csomething.cpp
+	"CSomething.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\csomething.h
+	"CShape.h"
+	"CSquare.h"
+	"CCircle.h"
+	"CEquilateralTriangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\csquare.h
+	<windows.h>
+	"Utils.h"
+	"CRectangle.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\csquare.cpp
+	"CSquare.h"
+	<math.h>
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\csweet.cpp
+	"CSweet.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\csweet.h
+	"CShape.h"
+	"CEllipse.h"
+	"CTriangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\ctriangle.h
+	<windows.h>
+	"CAbstractTriangle.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\ctriangle.cpp
+	"CTriangle.h"
+	"Utils.h"
+	<math.h>
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\main.cpp
+	<windows.h>
+	"MsgHandlers.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\msghandlers.h
+	<windows.h>
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\msghandlers.cpp
+	"MsgHandlers.h"
+	"Utils.h"
+	<time.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"CRectangle.h"
+	"CEllipse.h"
+	"CCircle.h"
+	"CSquare.h"
+	"CRightTriangle.h"
+	"CIsoscelesTriangle.h"
+	"CEquilateralTriangle.h"
+	"CTriangle.h"
+	"CSomething.h"
+	"CChequer.h"
+	"CSweet.h"
+	"CRadiation.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cchequer.h
+	"CShape.h"
+	"CRectangle.h"
+
+1433672191 c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cradiation.h
+	"CShape.h"
+	"CCircle.h"
+	"CTriangle.h"
+
+1433672191 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\utils.cpp
+	"Utils.h"
+	<math.h>
+
+1433672267 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cchequer.cpp
+	"CChequer.h"
+
+1433673580 source:c:\users\patryk\documents\programowanie-obiektowe\promieniowanie\cradiation.cpp
+	<cstdlib>
+	<iostream>
+	<math.h>
+	"CRadiation.h"
+
